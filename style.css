@@ -1,0 +1,78 @@
+body {
+    background-image: url("images/background2.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+h1 {
+    text-align: center;
+    color: white;
+    text-shadow: black 1px 0 10px;
+    font-size: 48;
+    padding-top: 20px;
+}
+
+#navbar {
+    height : 50px;
+    width : 100%;
+    background-color: whitesmoke;
+    margin: 0;
+}
+#articles {
+    height: 700px;
+    width: 1270px;
+    margin-top: 50px;
+    margin-left: 200px;
+    background-color: rgba(140, 140, 140, 0.8);
+    border-radius: 20px;
+    position: relative;
+}
+
+#article1 {
+    height: 50%;
+    width: 30%;
+    margin-left: 50px;
+    padding-top: 50px;
+    position: absolute;
+}
+
+#article2 {
+    height: 50%;
+    width: 30%;
+    margin-left: 480px;
+    padding-top: 50px;
+    position: absolute;
+}
+
+#article3 {
+    height: 50%;
+    width: 30%;
+    margin-left: 910px;
+    padding-top: 50px;
+    position: absolute;
+}
+
+#article4 {
+    height: 50%;
+    width: 30%;
+    margin-left: 50px;
+    padding-top: 370px;
+    position: absolute;
+}
+
+#article5 {
+    height: 50%;
+    width: 30%;
+    margin-left: 480px;
+    padding-top: 370px;
+    position: absolute;
+}
+
+#article6 {
+    height: 50%;
+    width: 30%;
+    margin-left: 910px;
+    padding-top: 370px;
+    position: absolute;
+}
